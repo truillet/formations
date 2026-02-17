@@ -10,7 +10,7 @@ Catalogue des formations/UE  en IHM dans l'ESR public français.
 
 
 ## Bretagne
-### _Université de Bretagen Ouest_ (UBO), (http://www.univ-brest.fr)
+### _Université de Bretagne Ouest_ (UBO), (http://www.univ-brest.fr)
 - Master Informatique
 	+ [parcours Systèmes Interactifs, Intelligents et Autonomes](https://formations.univ-brest.fr/fr/index/sciences-technologies-sante-STS/master-XB/master-informatique-INRBV8Y3/parcours-systemes-interactifs-intelligents-et-autonomes-INRBVLH0.html)
 
@@ -21,7 +21,10 @@ Catalogue des formations/UE  en IHM dans l'ESR public français.
 
 
 ## Grand Est
-
+### Metz
+#### _Université de Lorraine_, (https://www.univ-lorraine.fr)
+- Master Informatique
+    + [parcours interaction Humain-Machine](https://cfa.univ-lorraine.fr/nos-formations/masters/master-interaction-humain-machine.html)
 
 ## Hauts de France
 ### Lille
