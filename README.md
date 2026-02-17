@@ -1,4 +1,4 @@
-# formations
+# formations en IHM ou contenant des enseignements en IHM
 Catalogue des formations/UE  en IHM dans l'ESR public français.
 
 
