@@ -1,4 +1,6 @@
 # formations en IHM ou contenant des enseignements en IHM
+*dernière mise à jour* : 17 février 2026
+
 Catalogue des formations/UE  en IHM dans l'ESR public français.
 
 
