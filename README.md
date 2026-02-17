@@ -30,7 +30,7 @@ Catalogue des formations/UE  en IHM dans l'ESR public français.
 ### Lille
 #### _Université de Lille_, (https://www.univ-lille.fr)
 - Master Informatique
-	+ [parcours réalité virtuelle et augementé](https://portail.fil.univ-lille.fr/portail/index.php?dipl=MInfo&sem=RVA&ue=ACCUEIL&label=Pr%C3%A9sentation)
+	+ [parcours réalité virtuelle et augmenté](https://portail.fil.univ-lille.fr/portail/index.php?dipl=MInfo&sem=RVA&ue=ACCUEIL&label=Pr%C3%A9sentation)
 
 
 ## Ile de France
